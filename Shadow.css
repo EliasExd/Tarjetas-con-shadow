@@ -1,0 +1,51 @@
+body{
+
+    margin: 0;
+    background-color: black;
+}
+
+ .box{
+
+    width: 280px;
+    background: #e2e2e2;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 0 0 45px 0 #00f;
+    padding: 20px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: #444;
+    text-align: center;
+ }
+
+ h2{
+
+    text-shadow: 0 0 4px blue;
+    font-size: 20px;
+ }
+
+
+ p{
+
+    list-style: none;
+    text-align: justify;
+    line-height: 1.5;
+    font-size: 14px;
+    text-shadow: 0 0 4px red;
+ }
+
+ .RXJ1347{
+
+    width: 200px;
+    border-radius: 100%;
+    box-shadow:  0 0 45px 0 #00f;;
+ }
+
+ .ADA13{
+
+    width: 160px;
+    filter: drop-shadow(0 0 3px blue);
+ }
+
+
+ 
